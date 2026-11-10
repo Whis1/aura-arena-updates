@@ -1,6 +1,16 @@
 # aura-arena-updates
 Installer e aggiornamenti ufficiali di Aura Arena per il canale Twitch ishowdrive.
 
+## Aggiornamento 0.8.47
+
+Nei normali 1v1 si vincono sempre **100 Aura**, indipendentemente dal saldo avversario. La penalità resta **74 Aura**, con saldo minimo a zero. Queste vittorie contano per Suinos; tornei ed eventi speciali conservano le loro regole.
+
+- `!Comandiaura`: comandi utilizzabili da tutti.
+- `!Comandiaurastreamer`: comandi riservati allo streamer.
+
+Ogni elenco viene inviato in un solo messaggio. [Scarica la versione corrente](https://github.com/Whis1/aura-arena-updates/releases/latest).
+
+
 ## Registro delle proposte
 
 [Consulta le proposte approvate dall’Imperatore Supremo Lanzichenecco](https://proposte-lanzichenecche.ishowdrive-community.workers.dev).
